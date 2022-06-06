@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smuzendah
-- 👀 I’m interested in ...Python, web development and data analytics.
+- 👀 I’m interested in ...Python, Telecoms, web development and data analytics.
 - 🌱 I’m currently learning ... Python (Web Development and Data Analytics).
 - 💞️ I’m looking to collaborate on ... Web Development and Data Analytics projects.
 - 📫 How to reach me ... sylvester.muzendah@gmail.com
