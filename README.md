@@ -16,4 +16,4 @@ I am passionate about technology and have a diverse range of interests including
 Let's innovate and create amazing things together! 💡
 ```
 
-Feel free to customize this README file according to your preferences! If you need any further adjustments or assistance, just let me know.
+
